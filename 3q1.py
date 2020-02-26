@@ -6,6 +6,6 @@ for i in range(l):
 list2=[]
 for i in list:
     if i==0:
-        list2.appen(i)
+        list2.append(i)
         list1.remove(i)
 list3=list1 + list2
