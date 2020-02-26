@@ -2,7 +2,7 @@ l=int(input())
 list=[]
 for i in range(l):
     a=int(input())
-    list.append(i)
+    list.append(a)
 list2=[]
 for i in list:
     if i==0:
